@@ -1,0 +1,13 @@
+{
+		"BackgroundColor": "Black",
+		"ForegroundColor": "White",
+		"ScreenSize": [
+				133,
+				15,
+				133,
+				3000
+		],
+		"CursorSize": 25,
+		"CursorVisualization": true,
+		"UserLanguage": 0
+}

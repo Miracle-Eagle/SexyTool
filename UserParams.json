@@ -1,0 +1,107 @@
+{
+		"FileManagerParams": {
+				"NewName": "(New File)",
+				"ReplaceExistingFiles": false,
+				"InputPath": "C:\\Users\\Francisco Villanueva\\Desktop\\SexyTool\\Input.txt",
+				"OutputPath": "C:\\Users\\Francisco Villanueva\\Desktop\\SexyTool\\Output.txt"
+		},
+		"FolderManagerParams": {
+				"NewName": "(New Folder)",
+				"InputPath": "C:\\Users\\Francisco Villanueva\\Desktop\\SexyTool\\Input",
+				"OutputPath": "C:\\Users\\Francisco Villanueva\\Desktop\\SexyTool\\Output"
+		},
+		"FileCompressorsParams": {
+				"CompressionLvl": "Optimal",
+				"InputPath": "C:\\Users\\Francisco Villanueva\\Desktop\\SexyTool\\Input.txt",
+				"OutputPath": "C:\\Users\\Francisco Villanueva\\Desktop\\SexyTool\\Output.compressed"
+		},
+		"FileHashersParams": {
+				"Md5DigestInfo": {
+						"UseAuthCode": false,
+						"CipherKey": "W0VudGVyIGEgQ2lwaGVyIEtleSBmcm9tIDE2IHRvIDY0IEJ5dGVzXQ=="
+				},
+				"Sha1DigestInfo": {
+						"UseAuthCode": false,
+						"CipherKey": "W0VudGVyIGEgQ2lwaGVyIEtleSBmcm9tIDIwIHRvIDY0IEJ5dGVzXQ=="
+				},
+				"Sha256DigestInfo": {
+						"UseAuthCode": false,
+						"CipherKey": "W0VudGVyIGEgQ2lwaGVyIEtleSBmcm9tIDMyIHRvIDY0IEJ5dGVzXQ=="
+				},
+				"Sha384DigestInfo": {
+						"UseAuthCode": false,
+						"CipherKey": "W0VudGVyIGEgQ2lwaGVyIEtleSBmcm9tIDQ4IHRvIDY0IEJ5dGVzXQ=="
+				},
+				"Sha512DigestInfo": {
+						"UseAuthCode": false,
+						"CipherKey": "W0VudGVyIGEgQ2lwaGVyIEtleSBmcm9tIDY0IHRvIDEyOCBCeXRlc10="
+				},
+				"InputPath": "C:\\Users\\Francisco Villanueva\\Desktop\\SexyTool\\Input.txt",
+				"OutputPath": "C:\\Users\\Francisco Villanueva\\Desktop\\SexyTool\\Output.hash"
+		},
+		"FileSecurityParams": {
+				"Base64ParseInfo": {
+						"IsWebSafe": true
+				},
+				"XorCryptoInfo": {
+						"CipherKey": "W0VudGVyIGEgQ2lwaGVyIEtleV0="
+				},
+				"AesCryptoInfo": {
+						"SaltValue": "W0VudGVyIGEgU2FsdCBWYWx1ZV0=",
+						"HashType": "MD5",
+						"IterationsCount": 10,
+						"CipheringMode": "CBC",
+						"DataPadding": "Zeros",
+						"CipherKey": "W0VudGVyIGEgQ2lwaGVyIEtleSBmcm9tIDE2IHRvIDMyIEJ5dGVzXQ=="
+				},
+				"InputPath": "C:\\Users\\Francisco Villanueva\\Desktop\\SexyTool\\Input.txt",
+				"OutputPath": "C:\\Users\\Francisco Villanueva\\Desktop\\SexyTool\\Output.bin"
+		},
+		"SexyParsersParams": {
+				"EndianEncoding": "None",
+				"RtonParseInfo": {
+						"UseReferenceStrings": false
+				},
+				"InputPath": "C:\\Users\\Francisco Villanueva\\Desktop\\SexyTool\\Input.txt",
+				"OutputPath": "C:\\Users\\Francisco Villanueva\\Desktop\\SexyTool\\Output.bin"
+		},
+		"SexyCompressorsParams": {
+				"CompressionLvl": "Optimal",
+				"InputPath": "C:\\Users\\Francisco Villanueva\\Desktop\\SexyTool\\Input.txt",
+				"OutputPath": "C:\\Users\\Francisco Villanueva\\Desktop\\SexyTool\\Output.compressed"
+		},
+		"SexyCryptorsParams": {
+				"DesCryptoInfo": {
+						"SaltValue": "W0VudGVyIGEgU2FsdCBWYWx1ZV0=",
+						"HashType": "MD5",
+						"IterationsCount": 16,
+						"CipheringMode": "CBC",
+						"DataPadding": "Zeros",
+						"CipherKey": "W0VudGVyIGEgQ2lwaGVyIEtleSBmcm9tIDggdG8gOCBCeXRlc10="
+				},
+				"TripleDesCryptoInfo": {
+						"SaltValue": "W0VudGVyIGEgU2FsdCBWYWx1ZV0=",
+						"HashType": "MD5",
+						"IterationsCount": 48,
+						"CipheringMode": "CBC",
+						"DataPadding": "Zeros",
+						"CipherKey": "W0VudGVyIGEgQ2lwaGVyIEtleSBmcm9tIDE2IHRvIDI0IEJ5dGVzXQ=="
+				},
+				"RijndaelCryptoInfo": {
+						"SaltValue": "W0VudGVyIGEgU2FsdCBWYWx1ZV0=",
+						"HashType": "MD5",
+						"IterationsCount": 10,
+						"BlockCipherName": "CBC",
+						"CipherPaddingIndex": 0,
+						"CipherKey": "W0VudGVyIGEgQ2lwaGVyIEtleSBmcm9tIDE2IHRvIDMyIEJ5dGVzXQ=="
+				},
+				"RsaCryptoInfo": {
+						"SaltValue": "W0VudGVyIGEgU2FsdCBWYWx1ZV0=",
+						"HashType": "SHA1",
+						"IterationsCount": 1000,
+						"CipherKey": "W0VudGVyIGEgQ2lwaGVyIEtleSBmcm9tIDEyOCB0byA1MTIgQnl0ZXNd"
+				},
+				"InputPath": "C:\\Users\\Francisco Villanueva\\Desktop\\SexyTool\\Input.txt",
+				"OutputPath": "C:\\Users\\Francisco Villanueva\\Desktop\\SexyTool\\Output.bin"
+		}
+}
